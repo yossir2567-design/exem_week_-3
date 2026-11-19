@@ -51,7 +51,7 @@ class Game:
                         print("\n================ TURN ================")
                         print(f"Player: {name_card_p}")
                         print(f"Computer: {name_card_c}")
-                        print("Computer won the round!")
+                        print("It's a draw!")
                         print(f"Player cards: {len_player} | Computer cards: {len_computer}")
                         print("======================================\n")
                         continue
